@@ -5,6 +5,7 @@ src-git telephony https://github.com/openwrt/telephony.git
 src-git management https://github.com/openwrt-management/packages.git
 src-git targets https://github.com/openwrt/targets.git
 src-git oldpackages https://github.com/sonnyyu/openwrt-old-packages.git
+src-git alljoyn https://github.com/sonnyyu/openwrt-alljoyn-packages.git;chaos_calme
 #src-svn xwrt http://x-wrt.googlecode.com/svn/trunk/package
 #src-svn phone svn://svn.openwrt.org/openwrt/feeds/phone
 #src-svn efl svn://svn.openwrt.org/openwrt/feeds/efl
