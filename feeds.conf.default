@@ -13,4 +13,4 @@ src-git oldpackages https://github.com/sonnyyu/openwrt-old-packages.git
 #src-svn xfce svn://svn.openwrt.org/openwrt/feeds/xfce
 #src-svn lxde svn://svn.openwrt.org/openwrt/feeds/lxde
 #src-link custom /usr/src/openwrt/custom-feed
-src-git arduino https://github.com/sonnyyu/arduino-yun-packages.git
+src-git arduino https://github.com/sonnyyu/openwrt-packages-arduino-yun.git
