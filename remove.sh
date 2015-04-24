@@ -11,4 +11,4 @@ tor-alpha  forked-daapd minidlna dmapd libdlna \
 ushare hplip gst-python tesseract  cups hidapi  xmpp4r cups-bjnp \
 speedtouch-usb-firmware snort snort-mysql snort-pgsql gdb usbip \
 python-egenix-mx gst-ffmpeg python-psycopg bitchx gdb \
-libgupnp-dlna rygel  libiksemel asterisk18-codec-g729 nufw boost
+libgupnp-dlna rygel  libiksemel asterisk18-codec-g729 nufw boost wt
